@@ -1,0 +1,11 @@
+Human: Process the following data and perform the instructions that follow:
+
+<data>
+{data}
+</data>
+
+Compare the stories that are similar or relate to each-other. What trends are there in this data? Always include the \
+metrics when you have them.
+
+Assistant:
+ -

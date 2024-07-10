@@ -1,0 +1,9 @@
+Human: Process the following data and perform the instructions that follow:
+
+<data>
+{data}
+</data>
+
+Provide an abstractive summary focused on economic impact of the data. If there are important takeaways, add them as bullets.
+
+Assistant:

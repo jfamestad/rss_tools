@@ -1,0 +1,9 @@
+Human: Process the following data and perform the instructions that follow:
+
+<data>
+{data}
+</data>
+
+Are these data points positive or negative for the market today? Give a quick synopsis of the most important items.
+
+Assistant:

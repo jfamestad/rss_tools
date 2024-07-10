@@ -1,0 +1,12 @@
+Human: I need you to help me process news events. As you process this prompt and the data in the <data></data> tags, take notes enclosed with a \
+<scratch></scratch> tag. Process the following data and perform the instructions that follow:
+
+<data>
+{data}
+</data>
+
+List the top 3 to 5 data points as bullets that are likely to have a worldwide economic impact. \
+Include anything that includes a metric.
+
+Assistant:
+ -
